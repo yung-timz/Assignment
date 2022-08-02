@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\Loops Ass\question 9\obj\Debug\net5.0\question 9.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Loops Ass\question 9\obj\Debug\net5.0\question 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Loops Ass\question 9\obj\Debug\net5.0\question 9.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Loops Ass\question 9\obj\Debug\net5.0\question 9.AssemblyInfo.cs
+C:\Users\USER\Desktop\Loops Ass\question 9\obj\Debug\net5.0\question 9.csproj.CoreCompileInputs.cache
